@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# 李折
 
-You can use the [editor on GitHub](https://github.com/BossZihang/bosszhipin_third/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+性别：男
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+专业 ：法国文学
 
-### Markdown
+学历：在读硕士(国内本科）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+留学国家：法国
 
-```markdown
-Syntax highlighted code block
+求职意向：法语翻译
 
-# Header 1
-## Header 2
-### Header 3
+在读学校：巴黎四大
 
-- Bulleted
-- List
+### 请问你已经就业了嘛？
+还没有
 
-1. Numbered
-2. List
+### 请问你什么专业呢？
+就法国文学
 
-**Bold** and _Italic_ and `Code` text
+### 你的就业意向在法国还是在国内呀？
+无所谓，不过你应该也知道留在法国要两倍的最低工资，我们刚毕业的很难找到一个给我们两千欧（一个月）的公司
 
-[Link](url) and ![Image](src)
-```
+### 你觉得国内就业和国外就业各有什么好处和坏处呢
+在国外的话，你法语或者英语需要很好，国内的话，也没有什么特别要求。我有个师兄法国留学完，法语说的还比我差，回国当销售一样赚很多。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 那你觉得留学生在回国就业有什么优势和劣势？
+我国内本科读的法语，出国肯定至少能被国内企业肯定，以后当老师也好，去非洲做翻译也好，机会总是比没留过学的学生大的。
 
-### Jekyll Themes
+### 其他专业呢？
+这个我觉得还是有好处的，至少出国不是减分项你说对吧
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BossZihang/bosszhipin_third/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 你觉得留学生和国内学生，在相同能力的条件下，哪一种学生更受企业青睐？
+留学生。
+
+### 现在国内的经济形势不错也有不少的留学生回国工作，你有什么给留学生建议？
+挺好的呀，我自己也打算回国工作，找一个好一点的单位。
+
+### 您对回国创业怎么看？
+没考虑过这些事情
+
+
+### 您觉得有必要为留学生开辟一条渠道来帮助他们就业吗？如果需要，关键点在哪里？
+文科类专业确实挺难找工作的，我觉得像内推群这样就挺好的。
+
+
+
+
+
+
+
+
+
+
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
